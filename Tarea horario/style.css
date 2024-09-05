@@ -1,0 +1,5 @@
+th {     font-size: 10px;     font-weight: normal;     padding: 8px;     background: #8f0bdb;
+    border-top: 4px solid #000000;    border-bottom: 1px solid #fff; color: #039; }
+
+td {    padding: 8px;     background: rgb(53, 5, 47);     border-bottom: 1px solid #120505;
+    color: rgb(237, 226, 235);    border-top: 1px solid transparent; }
